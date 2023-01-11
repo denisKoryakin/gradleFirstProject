@@ -1,0 +1,5 @@
+/.idea/
+/.gradle/
+/api/build/
+/db/build/
+/service/build/
